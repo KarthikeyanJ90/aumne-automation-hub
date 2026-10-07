@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.zoho_report_state.json
+.zoho_access_token.json
+zoho_daily_report.log
+daily_report_*.md

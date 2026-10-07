@@ -1,0 +1,42 @@
+{
+  "team_id": "60068984129",
+  "project_id": "49635000000017488",
+  "project_name": "aumne-engine",
+  "zoho_domain": "in",
+  "report_time": "08:30",
+  "timezone": "Asia/Kolkata",
+  "working_weekdays": [0, 1, 2, 3, 4],
+  "hours_per_day": 8.0,
+  "review_remaining_hours": 1.0,
+  "stale_working_days": 2,
+  "high_bug_priorities": ["Highest"],
+  "my_user_id": "49635000000005605",
+  "unassigned_user_ids": ["49635000000002008"],
+  "regular_users": {
+    "49635000000104094": "Dharshini R",
+    "49635000000104091": "Dhivyabharathi M",
+    "49635000000005673": "Dinesh Velmurugan",
+    "49635000000005682": "Guhanathan S",
+    "49635000000005676": "Kaarthikeyan AV",
+    "49635000000005605": "Karthikeyan J Jayakumar",
+    "49635000000005679": "Kaviya dharshini T D",
+    "49635000000005685": "Sarveshwaran AM",
+    "49635000000023282": "Saurabh Shedabale",
+    "49635000000005667": "Shriram Govindaraj",
+    "49635000000005661": "Siddharth Ojha",
+    "49635000000221005": "Sivasri R",
+    "49635000000005670": "Uthayarahavan M S",
+    "49635000000165088": "Vinayak Totad",
+    "49635000000104097": "Vishnuvaradhan M"
+  },
+  "lead_users": {
+    "49635000000005697": "Jagadish Kumar",
+    "49635000000005691": "Sridhar Rangasamy",
+    "49635000000002007": "Suresh Periyappan"
+  },
+  "excluded_user_ids": [
+    "49635000000005664",
+    "49635000000005688"
+  ]
+}
+
